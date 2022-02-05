@@ -60,8 +60,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 device-ads.s3.amazonaws.com
 0.0.0.0 affiliationjs.s3.amazonaws.com
-0.0.0.0 
--api-eu.amazon.com
+0.0.0.0 api-eu.amazon.com
 0.0.0.0 amazonaax.com
 0.0.0.0 amazonclix.com
 0.0.0.0 assoc-amazon.com
