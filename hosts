@@ -20,6 +20,9 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+#[spam/fraudolent/phishing]
+
+0.0.0.0 phishing.net
 
 #[Google Ads]
 
@@ -28,6 +31,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adservice.google.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 googleadservices.com
+0.0.0.0 googleads.g.doubleclick.net
 
 
 #[Media.net]
